@@ -1,0 +1,1 @@
+ print(predict_image("C:\\Users\\MONALISA\\Desktop\\BLOOD CANCER DETECTION_AI\\image.png"))
